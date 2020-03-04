@@ -103,3 +103,4 @@ tag_archive:
   path: /tags/
 
 github: [metadata]
+theme: jekyll-theme-minimal
